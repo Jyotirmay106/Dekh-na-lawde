@@ -1,4 +1,4 @@
-Creating a README file is a great way to start your GitHub project! Here's a README for your Olios Furniture website:
+
 -------------------------------------
 # Olios Furniture Website
 
